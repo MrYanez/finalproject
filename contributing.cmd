@@ -1,10 +1,9 @@
 
 <h2>Welcome</h2>
-Welcome to the world of Artificial Intelligence! This is an open source project created and maintained by Group 1 which includes Nahum, Bennett, and Celeste in IT115. In this guide you will get an overview of the contribution workflow. The goal of our project is to learn our way around GitHub, learn a bunch of coding and teach about Artificial Intelligence.
-
+<p>This is our final</p>
 <h2>Introduction</h2>
-<p>This webpage is focused in understanding and documentaing about the world of artificial intelligence</p>
-<p>Topics will be enlisted histocally speaking as its evolution for the artificial intelligence</p>
+<p>This webpage is focused in understanding and documentaing about the world of </p>
+<p>Topics will be enlisted histocally speaking as its evolution forIT </p>
 
 <h2>Team Members</h2>
 Nahum
